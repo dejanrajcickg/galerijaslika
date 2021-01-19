@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  width: 800px;
+  height: 600px;
+  border: 1px solid gray;
+  margin: 100px auto;
+  border-radius: 10px;
+}
+
+#mainImg {
+  width: 90%;
+  height: 70%;
+  box-shadow: 0 0 5px;
+  margin: 30px;
+}
+
+.img {
+  width: 120px;
+  height: 100px;
+  margin-left: 28px;
+  box-shadow: 0 0 5px;
+  border-radius: 10px;
+  cursor: pointer;
+}
